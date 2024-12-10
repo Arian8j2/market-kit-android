@@ -11658,7 +11658,7 @@ INSERT INTO Coin VALUES('kittekoin','Kittekoin','KOIN',2788,'kittekoin','https:/
 INSERT INTO Coin VALUES('polygon-pos-bridged-dai-polygon-pos','Polygon PoS Bridged DAI (Polygon POS)','DAI',477,'polygon-pos-bridged-dai-polygon-pos','https://assets.coingecko.com/coins/images/39787/large/dai.png');
 INSERT INTO Coin VALUES('neiro-on-eth','Neiro on ETH','NEIRO',514,'neiro-on-eth','https://assets.coingecko.com/coins/images/39438/large/Neiro.png');
 INSERT INTO Coin VALUES('blast','Blast','BLAST',317,'blast','https://assets.coingecko.com/coins/images/35494/large/Blast.jpg');
-INSERT INTO Coin VALUES('simon-s-cat','Simon''s Cat','CAT',292,'simon-s-cat','https://assets.coingecko.com/coins/images/39765/large/Simon's_Cat_Logo.png');
+INSERT INTO Coin VALUES('simon-s-cat','Simon''s Cat','CAT',292,'simon-s-cat','https://assets.coingecko.com/coins/images/39765/large/Simon''s_Cat_Logo.png');
 INSERT INTO Coin VALUES('gigachad-2','Gigachad','GIGA',157,'gigachad-2','https://assets.coingecko.com/coins/images/34755/large/IMG_0015.png');
 INSERT INTO Coin VALUES('io','io.net','IO',271,'io','https://assets.coingecko.com/coins/images/37754/large/io_blackbg.png');
 INSERT INTO Coin VALUES('mythos','Mythos','MYTH',384,'mythos','https://assets.coingecko.com/coins/images/28045/large/Mythos_Logos_200x200.png');
