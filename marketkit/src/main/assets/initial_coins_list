@@ -4410,6 +4410,7 @@ INSERT INTO TokenEntity VALUES('orbs','binance-smart-chain','eip20',18,'0xebd49b
 INSERT INTO TokenEntity VALUES('phantasma','ethereum','eip20',8,'0x75858677e27c930fb622759feaffee2b754af07f');
 INSERT INTO TokenEntity VALUES('phantasma','binance-smart-chain','eip20',8,'0xc3adbf524513863102df6784e1ab5652165c7912');
 INSERT INTO TokenEntity VALUES('pax-gold','ethereum','eip20',18,'0x45804880de22913dafe09f4980848ece6ecbaf78');
+INSERT INTO TokenEntity VALUES('pax-gold','polygon-pos','eip20',18,'0x553d3d295e0f695b9228246232edf400ed3560b5');
 INSERT INTO TokenEntity VALUES('pax-gold','harmony-shard-0','harmony-shard-0',null,'0x7afb0e2eba6dc938945fe0f42484d3b8f442d0ac');
 INSERT INTO TokenEntity VALUES('orchid-protocol','ethereum','eip20',18,'0x4575f41308ec1483f3d399aa9a2826d74da13deb');
 INSERT INTO TokenEntity VALUES('orion-protocol','ethereum','eip20',8,'0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a');
