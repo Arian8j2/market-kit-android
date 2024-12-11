@@ -31,7 +31,7 @@ class DumpManager(private val marketDatabase: MarketDatabase) {
         coins.forEach { coin ->
             val coinGeckoId = coin.coinGeckoId?.let { "'$it'" } ?: "null"
             val insertQuery =
-                "INSERT INTO Coin VALUES('${coin.uid}',${DatabaseUtils.sqlEscapeString(coin.name)},'${coin.code}',${coin.marketCapRank},$coinGeckoId,'${coin.image}');"
+                "INSERT INTO Coin VALUES('${coin.uid}',${DatabaseUtils.sqlEscapeString(coin.name)},'${coin.code}',${coin.marketCapRank},$coinGeckoId,${DatabaseUtils.sqlEscapeString(coin.image)});"
             insertQueries.append(insertQuery).append("\n")
         }
         return insertQueries.toString()
